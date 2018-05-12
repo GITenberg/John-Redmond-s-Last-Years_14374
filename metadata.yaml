@@ -1,0 +1,30 @@
+_repo: John-Redmond-s-Last-Years_14374
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gwynn, Stephen Lucius
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '2451'
+    url: http://www.gutenberg.org/2009/agents/2451
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Lucius_Gwynn
+description: Cover -- Contents.
+gutenberg_issued: '2004-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Redmond, John Edward, 1856-1918 -- Last years'
+- !lcc 'DA'
+- !lcsh 'Irish question'
+- !lcsh 'World War, 1914-1918 -- Ireland'
+- !lcsh 'Ireland -- History -- Easter Rising, 1916 -- Biography'
+title: John Redmond's Last Years
+url: http://www.gutenberg.org/ebooks/14374
